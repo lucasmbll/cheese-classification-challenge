@@ -20,6 +20,3 @@ This repository contains the implementation developed by Lucas Mebille and Adib 
 - **Visualization**: Matplotlib, Seaborn
 - **Image Augmentation**: Albumentations
 - **Zero-Shot Learning**: OpenCLIP
-
-
-# cheese-classification-challenge
